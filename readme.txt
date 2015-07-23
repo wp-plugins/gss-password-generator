@@ -1,12 +1,12 @@
 === Gss Password Generator ===
-Contributors:Gurjeet Singh(gurjeet.sasan@gmail.com)
+Contributors: Gurjeet Singh
 Tags: generate password, GSS, Password, strong Password, Random password, secure Password
 Requires at least: 3.8
 Tested up to: 4.2
 Stable tag: 3.4.2
 License: GPLv2
 
-Admin UI for creating srtong passwords. 
+Admin UI for creating strong passwords. 
 
 == Description ==
 
